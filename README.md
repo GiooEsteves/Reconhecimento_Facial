@@ -10,9 +10,13 @@
         <pre><code>pip install opencv-python</code></pre>
     </ol>
     <h2>Uso</h2>
-    <p>Para utilizar o sistema de reconhecimento facial, execute o seguinte comando:</p>
-    <pre><code>python reconhecimento_facial.py --imagem caminho/para/imagem.jpg</code></pre>
-    <p>Isso detectará e reconhecerá rostos na imagem especificada.</p>
+    <p>Há 3 softwares de reconhecimento, que possuem diferentes métodos, que podem ser usado.</p>
+    <p>Para utilizar o sistema de reconhecimento facial do método Eigenfaces, execute o seguinte comando:</p>
+    <pre><code>python reconhecedor_eigenfaces.py</code></pre>
+    <p>Para utilizar o sistema de reconhecimento facial do método Fisherfaces, execute o seguinte comando:</p>
+    <pre><code>python reconhecedor_fisherfaces.py</code></pre>
+    <p>Para utilizar o sistema de reconhecimento facial do método LBPH, execute o seguinte comando:</p>
+    <pre><code>python reconhecedor_LBPH.py</code></pre>
     <h2>Funcionalidades</h2>
     <ul>
         <li>Detecção de rostos em imagens.</li>
