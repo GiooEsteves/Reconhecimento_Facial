@@ -1,6 +1,6 @@
 <body>
     <h1>Reconhecimento Facial</h1>
-    <img src= https://raw.githubusercontent.com/opencv/opencv/master/samples/data/lena.jpg alt="Reconhecimento Facial">
+    <img src="https://GiooEsteves/reconhecimento_Facial/reconhecimento_facial_head.jpg" alt="Reconhecimento Facial">
     <p>Este repositório contém um sistema de reconhecimento facial que detecta e reconhece rostos em imagens.</p>
     <h2>Instalação</h2>
     <ol>
@@ -21,9 +21,9 @@
     </ul>
     <h2>Exemplos</h2>
     <h3>Entrada:</h3>
-    <img src="https://caminho/para/entrada.jpg" alt="Entrada">
+    <img src="https://GiooEsteves/reconhecimento_Facial/antes.png" alt="Entrada">
     <h3>Saída:</h3>
-    <img src="https://caminho/para/saida.jpg" alt="Saída">
+    <img src="https://GiooEsteves/reconhecimento_Facial/depois.png" alt="Saída">
     <h2>Créditos</h2>
     <p>Este projeto foi desenvolvido por <a href="https://github.com/GiooEsteves">Giovanna Valentina Esteves</a>.</p>
 </a></p>
