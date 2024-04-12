@@ -1,13 +1,13 @@
 <body>
     <h1>Reconhecimento Facial</h1>
-    <img src="https://GiooEsteves/reconhecimento_Facial/reconhecimento_facial_head.jpg" alt="Reconhecimento Facial">
+    <img src="./reconhecimento_facial_head.jpg" alt="Reconhecimento Facial">
     <p>Este repositório contém um sistema de reconhecimento facial que detecta e reconhece rostos em imagens.</p>
     <h2>Instalação</h2>
     <ol>
         <li>Clone este repositório:</li>
         <pre><code>git clone https://github.com/GiooEsteves/reconhecimento_Facial.git</code></pre>
         <li>Instale as dependências:</li>
-        <pre><code>pip install -r requirements.txt</code></pre>
+        <pre><code>pip install opencv-python</code></pre>
     </ol>
     <h2>Uso</h2>
     <p>Para utilizar o sistema de reconhecimento facial, execute o seguinte comando:</p>
@@ -21,9 +21,9 @@
     </ul>
     <h2>Exemplos</h2>
     <h3>Entrada:</h3>
-    <img src="https://GiooEsteves/reconhecimento_Facial/antes.png" alt="Entrada">
+    <img src="./antes.png" alt="Entrada">
     <h3>Saída:</h3>
-    <img src="https://GiooEsteves/reconhecimento_Facial/depois.png" alt="Saída">
+    <img src="./depois.png" alt="Saída">
     <h2>Créditos</h2>
     <p>Este projeto foi desenvolvido por <a href="https://github.com/GiooEsteves">Giovanna Valentina Esteves</a>.</p>
 </a></p>
