@@ -28,8 +28,10 @@
     <img src="./antes.png" alt="Entrada">
     <h3>Saída:</h3>
     <img src="./depois.png" alt="Saída">
-    <h2>Créditos</h2>
-    <p>Este projeto foi desenvolvido por <a href="https://github.com/GiooEsteves">Giovanna Valentina Esteves</a>.</p>
+    <h2>Autor:</h2>
+    <p>Giovanna Valentina Esteves</p>
+    <h2>Licença:</h2>
+    <p>Este projeto está licenciado sob a Licença MIT.</p>
 </a></p>
 </body>
 </html>
